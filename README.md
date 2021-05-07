@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amorh
+- 👀 I’m interested in new technologies for cities and real estate
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on data science, data visualization and urban projects
+- 📫 How to reach me ha.hamzaamor@gmail.com
